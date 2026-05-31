@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterupdate",
+        "uuid": 6241005,
+        "checksum": "n9jxvc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
